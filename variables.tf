@@ -21,4 +21,3 @@ variable "sg_tags" {
 variable "vpc_id" {
     
 }
-#
